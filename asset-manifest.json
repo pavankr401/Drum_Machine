@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Drum_Machine/static/css/main.0fcca9f6.css",
+    "main.js": "/Drum_Machine/static/js/main.46406f98.js",
+    "static/js/787.c419f7a1.chunk.js": "/Drum_Machine/static/js/787.c419f7a1.chunk.js",
+    "static/media/Kick.mp3": "/Drum_Machine/static/media/Kick.72881f4bf80d341da208.mp3",
+    "static/media/Heater-1.mp3": "/Drum_Machine/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
+    "static/media/D3.mp3": "/Drum_Machine/static/media/D3.af6a30b56401567aec68.mp3",
+    "static/media/D4.mp3": "/Drum_Machine/static/media/D4.1be2e44742bc25ac214a.mp3",
+    "static/media/D5.mp3": "/Drum_Machine/static/media/D5.dc5ec9abd9c81d202492.mp3",
+    "static/media/D6.mp3": "/Drum_Machine/static/media/D6.3b0b67d32c466689690a.mp3",
+    "static/media/Heater-2.mp3": "/Drum_Machine/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-3.mp3": "/Drum_Machine/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-4.mp3": "/Drum_Machine/static/media/Heater-4.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Open-HH.mp3": "/Drum_Machine/static/media/Open-HH.5f33c02936f6ec6f8199.mp3",
+    "static/media/Clap.mp3": "/Drum_Machine/static/media/Clap.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/Drum_Machine/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Closed-HH.mp3": "/Drum_Machine/static/media/Closed-HH.0b159bd307a31937b138.mp3",
+    "index.html": "/Drum_Machine/index.html",
+    "main.0fcca9f6.css.map": "/Drum_Machine/static/css/main.0fcca9f6.css.map",
+    "main.46406f98.js.map": "/Drum_Machine/static/js/main.46406f98.js.map",
+    "787.c419f7a1.chunk.js.map": "/Drum_Machine/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fcca9f6.css",
+    "static/js/main.46406f98.js"
+  ]
+}
